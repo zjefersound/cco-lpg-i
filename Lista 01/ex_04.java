@@ -13,7 +13,7 @@ public class ex_04 {
     //porcentagem
     desconto = 15;
     
-    System.out.println("Digite o seu salário:");
+    System.out.println("Digite o salário mínimo:");
     salarioMinimo = keyboard.nextFloat();
 
     System.out.println("Digite a quantidade de Quilowatts:");
