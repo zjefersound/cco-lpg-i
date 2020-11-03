@@ -59,7 +59,6 @@ public class ex_08 {
   }
 }
 
-// Eu sei q é melhor criar em outro arq, mas né kkk
 class Jogador {
   private int idade;
   private float altura;
