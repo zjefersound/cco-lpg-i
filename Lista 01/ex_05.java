@@ -26,5 +26,6 @@ public class ex_05 {
     salarioFinal = (100 - imposto) / 100 * salarioBruto;
 
     System.out.println("Salário a receber: "+salarioFinal);
+    keyboard.close();
   }
 }

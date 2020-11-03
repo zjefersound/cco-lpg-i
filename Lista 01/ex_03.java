@@ -14,5 +14,6 @@ public class ex_03 {
     salarioFinal = (100+gratificacao-imposto)/100*salario;
 
     System.out.println("Salario Final:"+salarioFinal);
+    keyboard.close();
   }
 }

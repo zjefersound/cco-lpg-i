@@ -52,5 +52,6 @@ public class ex_06 {
     System.out.println("subtotal: "+subtotalNota);
     System.out.println("desconto: "+desconto+"%");
     System.out.println("total: "+totalNota);
+    keyboard.close();
   }
 }

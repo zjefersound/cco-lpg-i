@@ -27,5 +27,6 @@ public class ex_04 {
     System.out.println("Valow KW:"+kw);
     System.out.println("Custo da Residencia:"+custoResidencia);
     System.out.println("Custo da Residencia com "+desconto+"%:"+custoResidenciaComDesconto);
+    keyboard.close();
   }
 }
